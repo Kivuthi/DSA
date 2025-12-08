@@ -5,8 +5,8 @@ int main () {
 
 int item = 8;
 int found = 0;
-int i;
-
+int i
+sizeof (numb) \ sizeof(numb[])
  int numb [N] = {5,6,7,8,9};
 
     for (i = 0; i < N; i++) {

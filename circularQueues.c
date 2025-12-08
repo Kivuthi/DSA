@@ -1,5 +1,10 @@
  # include <stdio.h>
 #include <stdlib.h>
 
-#define MAX 5
+int main () {
+printf("Example for recursion");
 
+main ();
+return 0;
+
+}

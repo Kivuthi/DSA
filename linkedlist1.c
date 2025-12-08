@@ -26,6 +26,8 @@ int main() {
 
     insertAtBegin(&head, 10);
     insertAtBegin(&head, 20);
+    insertAtBegin(&head, 30);
+    insertAtBegin(&head, 40);
 
     display(head);
 
